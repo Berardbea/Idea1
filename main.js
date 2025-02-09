@@ -1,7 +1,7 @@
-function saludar(nombre){
-    console.log("hola", nombre)
+function recibir(nombre){
+    console.log("¡ Hola", nombre, "!")
 }
 function despedir(nombre){
-    console.log("adios", nombre)
+    console.log("¡ Adios", nombre, "!")
 }
-saludar(nombre= "Fau")
+recibir(nombre="Fau")
